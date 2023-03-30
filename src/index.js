@@ -37,7 +37,7 @@ app.get('/data',async (req,res) => {
 
 
 
-
+console.log('test')
 
 app.listen(PORT,()=> console.log(`app is up and runing on Port : ${PORT}`))
 
